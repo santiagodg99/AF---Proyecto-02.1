@@ -187,7 +187,7 @@ Por último indicaremos el destino de la imagen, el nombre de la imagen y pincha
 
 Al finalizar el proceso se nos mostrará una ventana emergente donde se verifica la coincidencia de hashes.
 
-![Adquisicion Disco](/Imágenes/adquisicionDisco/coincidenciahashes(100%).png)
+![Adquisicion Disco](/Imágenes/adquisicionDisco/coincidenciahashes.png)
 
 ### Acta de adquisición 3: Disco duro
 A continuación se muestra el acta de adquisición en el que se ha realizado la documentación de la adquisición de disco.
